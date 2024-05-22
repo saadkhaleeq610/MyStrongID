@@ -1,0 +1,2 @@
+# MyStrongID
+ Introducing MyStrongID - a Random Password Generator tool. It generates secure, random passwords of customizable length, including options for numbers, and special characters. The tool is designed to help users create strong passwords for enhanced security. The project is implemented in ReactJS and comes with a straightforward user interface. Users can easily specify their preferences for password complexity and length. Ideal for developers, security enthusiasts, and anyone needing strong, random passwords for personal or professional use.
